@@ -20,9 +20,12 @@ A Python-based tool that checks the strength of a password.
 
 ```bash
 python password_checker.py
+```
+
 ## Author
 
 Amulya Reddy
+
 ## Output
 
 ![Program Output](output.png)
