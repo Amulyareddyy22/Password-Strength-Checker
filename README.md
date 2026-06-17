@@ -23,3 +23,6 @@ python password_checker.py
 ## Author
 
 Amulya Reddy
+## Output
+
+![Program Output](output.png)
